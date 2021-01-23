@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "意见反馈",
+  "pullRefresh": false,
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "个人中心",
+  "pullRefresh": false,
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}
